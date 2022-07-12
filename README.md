@@ -35,7 +35,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logoWidth=20&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Styled--Component-%23DB7093?style=flat-square&logoWidth=20&logo=styled-components&logoColor=white" />
  </div>
-
+ <br>
+ <br>
+ <br>
 
 ![Bloxxom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossssom&show_icons=true&theme=radical)
 
