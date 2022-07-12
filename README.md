@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlossssom%2Fhit-counter&count_bg=%239772FB&title_bg=%23764AF1&icon=&icon_color=%23B28585&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-###<center>Main Stack</center>
+<h2 align="center">Main</h2>
 
 <div width="80%" align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
