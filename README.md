@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=BloxxomGit%20render&fontSize=90&color=timeAuto?type=waving" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BloxxomGit%20render&fontSize=90&color=timeAuto" />
 ### Hi there 👋
 
 
