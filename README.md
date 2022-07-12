@@ -37,5 +37,6 @@ Here are some ideas to get you started:
  </div>
 
 
- <div align="center">![Bloxxom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossssom&show_icons=true&theme=radical)</div>
+![Bloxxom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossssom&show_icons=true&theme=radical)
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blossssom&layout=compact)](https://github.com/Blossssom/github-readme-stats)
