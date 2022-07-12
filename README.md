@@ -38,7 +38,9 @@ Here are some ideas to get you started:
  <br>
  <br>
  <br>
-
-![Bloxxom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossssom&show_icons=true&theme=radical)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blossssom&layout=compact)](https://github.com/Blossssom/github-readme-stats)
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Blossssom&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blossssom&layout=compact" />
+</div>
