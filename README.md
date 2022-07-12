@@ -34,5 +34,5 @@ Here are some ideas to get you started:
  </div>
 
 <div align="center">
-  ![Bloxxom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossssom&show_icons=true&theme=radical)
+ ![Bloxxom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Blossssom&show_icons=true&theme=radical)
 </div>
