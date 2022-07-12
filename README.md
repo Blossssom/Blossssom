@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Github-%23181717?style=flat-square&logoWidth=20&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logoWidth=20&logo=Python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Styled--Component-%23DB7093?style=flat-square&logoWidth=20&logo=styled-components&logoColor=white" />
+
+
+![Bloxxom's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
