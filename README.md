@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![JavaScript Bedge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript)]
+![JavaScript Bedge](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
